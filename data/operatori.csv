@@ -1,0 +1,301 @@
+﻿operatore_id,zona,tipo_attivita
+O0001,Centro,Consegne
+O0002,Nord,Consegne
+O0003,Sud,Consegne
+O0004,Est,Consegne
+O0005,Ovest,Consegne
+O0006,Centro,Pulizie
+O0007,Nord,Pulizie
+O0008,Sud,Pulizie
+O0009,Est,Pulizie
+O0010,Ovest,Pulizie
+O0011,Centro,Manutenzione
+O0012,Nord,Manutenzione
+O0013,Sud,Manutenzione
+O0014,Est,Manutenzione
+O0015,Ovest,Manutenzione
+O0016,Centro,Spesa a domicilio
+O0017,Nord,Spesa a domicilio
+O0018,Sud,Spesa a domicilio
+O0019,Est,Spesa a domicilio
+O0020,Ovest,Spesa a domicilio
+O0021,Centro,Assistenza domestica
+O0022,Nord,Assistenza domestica
+O0023,Sud,Assistenza domestica
+O0024,Est,Assistenza domestica
+O0025,Ovest,Assistenza domestica
+O0026,Centro,Consegne
+O0027,Nord,Consegne
+O0028,Sud,Consegne
+O0029,Est,Consegne
+O0030,Ovest,Consegne
+O0031,Centro,Pulizie
+O0032,Nord,Pulizie
+O0033,Sud,Pulizie
+O0034,Est,Pulizie
+O0035,Ovest,Pulizie
+O0036,Centro,Manutenzione
+O0037,Nord,Manutenzione
+O0038,Sud,Manutenzione
+O0039,Est,Manutenzione
+O0040,Ovest,Manutenzione
+O0041,Centro,Spesa a domicilio
+O0042,Nord,Spesa a domicilio
+O0043,Sud,Spesa a domicilio
+O0044,Est,Spesa a domicilio
+O0045,Ovest,Spesa a domicilio
+O0046,Centro,Assistenza domestica
+O0047,Nord,Assistenza domestica
+O0048,Sud,Assistenza domestica
+O0049,Est,Assistenza domestica
+O0050,Ovest,Assistenza domestica
+O0051,Centro,Consegne
+O0052,Nord,Consegne
+O0053,Sud,Consegne
+O0054,Est,Consegne
+O0055,Ovest,Consegne
+O0056,Centro,Pulizie
+O0057,Nord,Pulizie
+O0058,Sud,Pulizie
+O0059,Est,Pulizie
+O0060,Ovest,Pulizie
+O0061,Centro,Manutenzione
+O0062,Nord,Manutenzione
+O0063,Sud,Manutenzione
+O0064,Est,Manutenzione
+O0065,Ovest,Manutenzione
+O0066,Centro,Spesa a domicilio
+O0067,Nord,Spesa a domicilio
+O0068,Sud,Spesa a domicilio
+O0069,Est,Spesa a domicilio
+O0070,Ovest,Spesa a domicilio
+O0071,Centro,Assistenza domestica
+O0072,Nord,Assistenza domestica
+O0073,Sud,Assistenza domestica
+O0074,Est,Assistenza domestica
+O0075,Ovest,Assistenza domestica
+O0076,Centro,Consegne
+O0077,Nord,Consegne
+O0078,Sud,Consegne
+O0079,Est,Consegne
+O0080,Ovest,Consegne
+O0081,Centro,Pulizie
+O0082,Nord,Pulizie
+O0083,Sud,Pulizie
+O0084,Est,Pulizie
+O0085,Ovest,Pulizie
+O0086,Centro,Manutenzione
+O0087,Nord,Manutenzione
+O0088,Sud,Manutenzione
+O0089,Est,Manutenzione
+O0090,Ovest,Manutenzione
+O0091,Centro,Spesa a domicilio
+O0092,Nord,Spesa a domicilio
+O0093,Sud,Spesa a domicilio
+O0094,Est,Spesa a domicilio
+O0095,Ovest,Spesa a domicilio
+O0096,Centro,Assistenza domestica
+O0097,Nord,Assistenza domestica
+O0098,Sud,Assistenza domestica
+O0099,Est,Assistenza domestica
+O0100,Ovest,Assistenza domestica
+O0101,Centro,Consegne
+O0102,Nord,Consegne
+O0103,Sud,Consegne
+O0104,Est,Consegne
+O0105,Ovest,Consegne
+O0106,Centro,Pulizie
+O0107,Nord,Pulizie
+O0108,Sud,Pulizie
+O0109,Est,Pulizie
+O0110,Ovest,Pulizie
+O0111,Centro,Manutenzione
+O0112,Nord,Manutenzione
+O0113,Sud,Manutenzione
+O0114,Est,Manutenzione
+O0115,Ovest,Manutenzione
+O0116,Centro,Spesa a domicilio
+O0117,Nord,Spesa a domicilio
+O0118,Sud,Spesa a domicilio
+O0119,Est,Spesa a domicilio
+O0120,Ovest,Spesa a domicilio
+O0121,Centro,Assistenza domestica
+O0122,Nord,Assistenza domestica
+O0123,Sud,Assistenza domestica
+O0124,Est,Assistenza domestica
+O0125,Ovest,Assistenza domestica
+O0126,Centro,Consegne
+O0127,Nord,Consegne
+O0128,Sud,Consegne
+O0129,Est,Consegne
+O0130,Ovest,Consegne
+O0131,Centro,Pulizie
+O0132,Nord,Pulizie
+O0133,Sud,Pulizie
+O0134,Est,Pulizie
+O0135,Ovest,Pulizie
+O0136,Centro,Manutenzione
+O0137,Nord,Manutenzione
+O0138,Sud,Manutenzione
+O0139,Est,Manutenzione
+O0140,Ovest,Manutenzione
+O0141,Centro,Spesa a domicilio
+O0142,Nord,Spesa a domicilio
+O0143,Sud,Spesa a domicilio
+O0144,Est,Spesa a domicilio
+O0145,Ovest,Spesa a domicilio
+O0146,Centro,Assistenza domestica
+O0147,Nord,Assistenza domestica
+O0148,Sud,Assistenza domestica
+O0149,Est,Assistenza domestica
+O0150,Ovest,Assistenza domestica
+O0151,Centro,Consegne
+O0152,Nord,Consegne
+O0153,Sud,Consegne
+O0154,Est,Consegne
+O0155,Ovest,Consegne
+O0156,Centro,Pulizie
+O0157,Nord,Pulizie
+O0158,Sud,Pulizie
+O0159,Est,Pulizie
+O0160,Ovest,Pulizie
+O0161,Centro,Manutenzione
+O0162,Nord,Manutenzione
+O0163,Sud,Manutenzione
+O0164,Est,Manutenzione
+O0165,Ovest,Manutenzione
+O0166,Centro,Spesa a domicilio
+O0167,Nord,Spesa a domicilio
+O0168,Sud,Spesa a domicilio
+O0169,Est,Spesa a domicilio
+O0170,Ovest,Spesa a domicilio
+O0171,Centro,Assistenza domestica
+O0172,Nord,Assistenza domestica
+O0173,Sud,Assistenza domestica
+O0174,Est,Assistenza domestica
+O0175,Ovest,Assistenza domestica
+O0176,Centro,Consegne
+O0177,Nord,Consegne
+O0178,Sud,Consegne
+O0179,Est,Consegne
+O0180,Ovest,Consegne
+O0181,Centro,Pulizie
+O0182,Nord,Pulizie
+O0183,Sud,Pulizie
+O0184,Est,Pulizie
+O0185,Ovest,Pulizie
+O0186,Centro,Manutenzione
+O0187,Nord,Manutenzione
+O0188,Sud,Manutenzione
+O0189,Est,Manutenzione
+O0190,Ovest,Manutenzione
+O0191,Centro,Spesa a domicilio
+O0192,Nord,Spesa a domicilio
+O0193,Sud,Spesa a domicilio
+O0194,Est,Spesa a domicilio
+O0195,Ovest,Spesa a domicilio
+O0196,Centro,Assistenza domestica
+O0197,Nord,Assistenza domestica
+O0198,Sud,Assistenza domestica
+O0199,Est,Assistenza domestica
+O0200,Ovest,Assistenza domestica
+O0201,Centro,Consegne
+O0202,Nord,Consegne
+O0203,Sud,Consegne
+O0204,Est,Consegne
+O0205,Ovest,Consegne
+O0206,Centro,Pulizie
+O0207,Nord,Pulizie
+O0208,Sud,Pulizie
+O0209,Est,Pulizie
+O0210,Ovest,Pulizie
+O0211,Centro,Manutenzione
+O0212,Nord,Manutenzione
+O0213,Sud,Manutenzione
+O0214,Est,Manutenzione
+O0215,Ovest,Manutenzione
+O0216,Centro,Spesa a domicilio
+O0217,Nord,Spesa a domicilio
+O0218,Sud,Spesa a domicilio
+O0219,Est,Spesa a domicilio
+O0220,Ovest,Spesa a domicilio
+O0221,Centro,Assistenza domestica
+O0222,Nord,Assistenza domestica
+O0223,Sud,Assistenza domestica
+O0224,Est,Assistenza domestica
+O0225,Ovest,Assistenza domestica
+O0226,Centro,Consegne
+O0227,Nord,Consegne
+O0228,Sud,Consegne
+O0229,Est,Consegne
+O0230,Ovest,Consegne
+O0231,Centro,Pulizie
+O0232,Nord,Pulizie
+O0233,Sud,Pulizie
+O0234,Est,Pulizie
+O0235,Ovest,Pulizie
+O0236,Centro,Manutenzione
+O0237,Nord,Manutenzione
+O0238,Sud,Manutenzione
+O0239,Est,Manutenzione
+O0240,Ovest,Manutenzione
+O0241,Centro,Spesa a domicilio
+O0242,Nord,Spesa a domicilio
+O0243,Sud,Spesa a domicilio
+O0244,Est,Spesa a domicilio
+O0245,Ovest,Spesa a domicilio
+O0246,Centro,Assistenza domestica
+O0247,Nord,Assistenza domestica
+O0248,Sud,Assistenza domestica
+O0249,Est,Assistenza domestica
+O0250,Ovest,Assistenza domestica
+O0251,Centro,Consegne
+O0252,Nord,Consegne
+O0253,Sud,Consegne
+O0254,Est,Consegne
+O0255,Ovest,Consegne
+O0256,Centro,Pulizie
+O0257,Nord,Pulizie
+O0258,Sud,Pulizie
+O0259,Est,Pulizie
+O0260,Ovest,Pulizie
+O0261,Centro,Manutenzione
+O0262,Nord,Manutenzione
+O0263,Sud,Manutenzione
+O0264,Est,Manutenzione
+O0265,Ovest,Manutenzione
+O0266,Centro,Spesa a domicilio
+O0267,Nord,Spesa a domicilio
+O0268,Sud,Spesa a domicilio
+O0269,Est,Spesa a domicilio
+O0270,Ovest,Spesa a domicilio
+O0271,Centro,Assistenza domestica
+O0272,Nord,Assistenza domestica
+O0273,Sud,Assistenza domestica
+O0274,Est,Assistenza domestica
+O0275,Ovest,Assistenza domestica
+O0276,Centro,Consegne
+O0277,Nord,Consegne
+O0278,Sud,Consegne
+O0279,Est,Consegne
+O0280,Ovest,Consegne
+O0281,Centro,Pulizie
+O0282,Nord,Pulizie
+O0283,Sud,Pulizie
+O0284,Est,Pulizie
+O0285,Ovest,Pulizie
+O0286,Centro,Manutenzione
+O0287,Nord,Manutenzione
+O0288,Sud,Manutenzione
+O0289,Est,Manutenzione
+O0290,Ovest,Manutenzione
+O0291,Centro,Spesa a domicilio
+O0292,Nord,Spesa a domicilio
+O0293,Sud,Spesa a domicilio
+O0294,Est,Spesa a domicilio
+O0295,Ovest,Spesa a domicilio
+O0296,Centro,Assistenza domestica
+O0297,Nord,Assistenza domestica
+O0298,Sud,Assistenza domestica
+O0299,Est,Assistenza domestica
+O0300,Ovest,Assistenza domestica

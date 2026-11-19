@@ -1,0 +1,39 @@
+EVIDENZE TECNICHE - PROTOTIPO ONDEMAND ANALYTICS
+Simulazione riproducibile con seed 20261115
+Periodo: 2026-01-01 / 2026-10-31
+
+Record originali: 360 clienti, 320 fornitori, 300 operatori, 550 richieste.
+Data warehouse: 4 dimensioni, 1 tabella fatti, 248 giorni presenti.
+
+Esecuzione di prepare.py: COMPLETATA.
+Verifica PRAGMA foreign_key_check: nessuna violazione.
+Verifica PRAGMA integrity_check: ok.
+Python: verifica sintattica di tutti gli script: SUPERATA.
+Python unittest: 10 test eseguiti, tutti SUPERATI.
+Analisi delle query della dashboard con simulazione delle chiamate Streamlit: SUPERATA.
+Interfaccia Streamlit: avviata e visualizzata nel browser su Windows.
+Filtro Zona: aggiornamento di indicatori e grafici verificato visivamente.
+Filtri Periodo e Categoria e download CSV: verificati tramite l'interfaccia nella versione precedente.
+Nell'ambiente iniziale di preparazione Streamlit non era installabile,
+ma l'avvio è stato successivamente confermato dall'esecuzione su Windows.
+
+Risultati SQL (dataset completo):
+Richieste: 550
+Completate: 497
+Annullate: 53
+Incassi: 24469.55 EUR
+Tempo medio completate: 82.4 minuti
+Clienti attivi: 245
+Clienti che ritornano: 119 (48.6%)
+Richieste completate in ritardo: 117
+
+Per rieseguire la verifica:
+python prepare.py
+python check_project.py
+python -m unittest discover -s tests -v
+
+AGGIORNAMENTO GENERATORE NOMI: Faker 40.1.2 (it_IT), seed 20261115.
+Nomi fornitori: 320 distinti, lunghezza massima 30 caratteri.
+Due esecuzioni di prepare.py: quattro CSV identici byte per byte.
+Confronto con il progetto precedente: file clienti, operatori e richieste identici; nel file fornitori e cambiata soltanto la colonna nome.
+KPI invariati; database integro. Dashboard con Faker: visualizzazione da verificare sul computer Windows.

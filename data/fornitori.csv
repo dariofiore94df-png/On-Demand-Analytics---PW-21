@@ -1,0 +1,321 @@
+﻿fornitore_id,nome,categoria,zona
+F0001,Asmundo-Silvestri e figli,Consegne,Centro
+F0002,Einaudi-Samele e figli,Consegne,Nord
+F0003,Bosurgi s.r.l.,Consegne,Sud
+F0004,Toselli Group,Consegne,Est
+F0005,Cicilia-Ossani s.r.l.,Consegne,Ovest
+F0006,Duodo-Verdi SPA,Pulizie,Centro
+F0007,Nitti-Parini Group,Pulizie,Nord
+F0008,Foscari SPA,Pulizie,Sud
+F0009,Pistoletto SPA,Pulizie,Est
+F0010,Salandra-Napolitano SPA,Pulizie,Ovest
+F0011,Carfagna SPA,Manutenzione,Centro
+F0012,Grimani-Nicoletti SPA,Manutenzione,Nord
+F0013,Iadanza e figli,Manutenzione,Sud
+F0014,Luzi-Contrafatto e figli,Manutenzione,Est
+F0015,Cossiga-Vattimo e figli,Manutenzione,Ovest
+F0016,Tropea-Palmisano SPA,Spesa a domicilio,Centro
+F0017,"Sauro, Pacomio e Maderno SPA",Spesa a domicilio,Nord
+F0018,Falloppio-Comboni e figli,Spesa a domicilio,Sud
+F0019,Zanazzo Group,Spesa a domicilio,Est
+F0020,Babato-Rastelli SPA,Spesa a domicilio,Ovest
+F0021,Ferrara-Pezzali SPA,Assistenza domestica,Centro
+F0022,Ruggieri-Orengo s.r.l.,Assistenza domestica,Nord
+F0023,Crisafulli s.r.l.,Assistenza domestica,Sud
+F0024,Babbo SPA,Assistenza domestica,Est
+F0025,Orsini-Gatto Group,Assistenza domestica,Ovest
+F0026,Almagià-Tacchini Group,Consegne,Centro
+F0027,Sagese Group,Consegne,Nord
+F0028,Brunello-Liguori Group,Consegne,Sud
+F0029,Cutrufo-Falier SPA,Consegne,Est
+F0030,Deledda-Maderno SPA,Consegne,Ovest
+F0031,Gaito-Solari SPA,Pulizie,Centro
+F0032,Bevilacqua Group,Pulizie,Nord
+F0033,Marzorati-Callegaro SPA,Pulizie,Sud
+F0034,Vanvitelli s.r.l.,Pulizie,Est
+F0035,Rosselli Group,Pulizie,Ovest
+F0036,Buscetta e figli,Manutenzione,Centro
+F0037,Nugnes SPA,Manutenzione,Nord
+F0038,Foconi Group,Manutenzione,Sud
+F0039,Ceci e figli,Manutenzione,Est
+F0040,Samele s.r.l.,Manutenzione,Ovest
+F0041,Calarco Group,Spesa a domicilio,Centro
+F0042,Pigafetta-Corcos Group,Spesa a domicilio,Nord
+F0043,Surian-Finzi Group,Spesa a domicilio,Sud
+F0044,Ceri e figli,Spesa a domicilio,Est
+F0045,Procacci-Zetticci e figli,Spesa a domicilio,Ovest
+F0046,Carullo-Sabbatini s.r.l.,Assistenza domestica,Centro
+F0047,Paganini-Grassi e figli,Assistenza domestica,Nord
+F0048,Argenti-Falier SPA,Assistenza domestica,Sud
+F0049,Ramazzotti s.r.l.,Assistenza domestica,Est
+F0050,Napolitano e figli,Assistenza domestica,Ovest
+F0051,Trentini-Necci e figli,Consegne,Centro
+F0052,Norbiato SPA,Consegne,Nord
+F0053,Gremese-Borgia SPA,Consegne,Sud
+F0054,Cundari s.r.l.,Consegne,Est
+F0055,Capuana s.r.l.,Consegne,Ovest
+F0056,Manzoni e figli,Pulizie,Centro
+F0057,Carfagna-Avogadro Group,Pulizie,Nord
+F0058,Tartaglia SPA,Pulizie,Sud
+F0059,Leone s.r.l.,Pulizie,Est
+F0060,"Pace, Moresi e Querini s.r.l.",Pulizie,Ovest
+F0061,Ferragamo-Cesaroni SPA,Manutenzione,Centro
+F0062,Tafuri s.r.l.,Manutenzione,Nord
+F0063,Gentilini s.r.l.,Manutenzione,Sud
+F0064,Murri-Maggioli SPA,Manutenzione,Est
+F0065,Bova-Vezzali s.r.l.,Manutenzione,Ovest
+F0066,"Russo, Cerutti e Sollima SPA",Spesa a domicilio,Centro
+F0067,Cuomo e figli,Spesa a domicilio,Nord
+F0068,Oscuro-Zoppetto e figli,Spesa a domicilio,Sud
+F0069,Belletini-Stradivari SPA,Spesa a domicilio,Est
+F0070,Carfagna-Notarbartolo s.r.l.,Spesa a domicilio,Ovest
+F0071,Scialpi SPA,Assistenza domestica,Centro
+F0072,Nosiglia-Brenna s.r.l.,Assistenza domestica,Nord
+F0073,Curatoli e figli,Assistenza domestica,Sud
+F0074,Zito-Gucci s.r.l.,Assistenza domestica,Est
+F0075,Barsanti e figli,Assistenza domestica,Ovest
+F0076,Ruberto e figli,Consegne,Centro
+F0077,Navone SPA,Consegne,Nord
+F0078,Pacomio-Martinelli s.r.l.,Consegne,Sud
+F0079,"Duodo, Caruso e Borromini SPA",Consegne,Est
+F0080,Taliani-Pedroni SPA,Consegne,Ovest
+F0081,Deledda SPA,Pulizie,Centro
+F0082,Vittadello e figli,Pulizie,Nord
+F0083,Tarantini e figli,Pulizie,Sud
+F0084,Cuzzocrea-Mastandrea SPA,Pulizie,Est
+F0085,Prada-Telesio e figli,Pulizie,Ovest
+F0086,"Biagiotti, Foà e Segni Group",Manutenzione,Centro
+F0087,Bottigliero SPA,Manutenzione,Nord
+F0088,Carli SPA,Manutenzione,Sud
+F0089,Falier Group,Manutenzione,Est
+F0090,Fantozzi-Bernini Group,Manutenzione,Ovest
+F0091,Pizzo-Tafuri s.r.l.,Spesa a domicilio,Centro
+F0092,Alonzi-Alfonsi Group,Spesa a domicilio,Nord
+F0093,Tron e figli,Spesa a domicilio,Sud
+F0094,Mondaini-Argan s.r.l.,Spesa a domicilio,Est
+F0095,Trobbiani s.r.l.,Spesa a domicilio,Ovest
+F0096,Capecchi-Bombieri e figli,Assistenza domestica,Centro
+F0097,Toscani SPA,Assistenza domestica,Nord
+F0098,Lercari Group,Assistenza domestica,Sud
+F0099,Moccia-Novaro e figli,Assistenza domestica,Est
+F0100,Offredi Group,Assistenza domestica,Ovest
+F0101,Lombroso-Gadda s.r.l.,Consegne,Centro
+F0102,Vismara-Palazzo Group,Consegne,Nord
+F0103,Abate SPA,Consegne,Sud
+F0104,Musatti e figli,Consegne,Est
+F0105,Alonzi-Morucci Group,Consegne,Ovest
+F0106,Tagliafierro Group,Pulizie,Centro
+F0107,Rismondo-Babati Group,Pulizie,Nord
+F0108,Fibonacci SPA,Pulizie,Sud
+F0109,Boito e figli,Pulizie,Est
+F0110,Pietrangeli e figli,Pulizie,Ovest
+F0111,Binaghi-Bembo s.r.l.,Manutenzione,Centro
+F0112,Trombetta SPA,Manutenzione,Nord
+F0113,Curatoli-Montesano Group,Manutenzione,Sud
+F0114,Taccola s.r.l.,Manutenzione,Est
+F0115,Trobbiani-Carocci e figli,Manutenzione,Ovest
+F0116,Albertini-Cabibbo SPA,Spesa a domicilio,Centro
+F0117,Leopardi-Respighi s.r.l.,Spesa a domicilio,Nord
+F0118,Tosto Group,Spesa a domicilio,Sud
+F0119,Bondumier e figli,Spesa a domicilio,Est
+F0120,Valentino Group,Spesa a domicilio,Ovest
+F0121,Pace-Parri s.r.l.,Assistenza domestica,Centro
+F0122,Gramsci-Morosini s.r.l.,Assistenza domestica,Nord
+F0123,Torricelli e figli,Assistenza domestica,Sud
+F0124,Gori-Doria s.r.l.,Assistenza domestica,Est
+F0125,Jacuzzi Group,Assistenza domestica,Ovest
+F0126,Gotti-Cabrini Group,Consegne,Centro
+F0127,Bernini-Chigi s.r.l.,Consegne,Nord
+F0128,Fuseli-Andreozzi e figli,Consegne,Sud
+F0129,Manunta SPA,Consegne,Est
+F0130,Giacometti SPA,Consegne,Ovest
+F0131,Ramazzotti SPA,Pulizie,Centro
+F0132,Moneta s.r.l.,Pulizie,Nord
+F0133,Marino-Eco e figli,Pulizie,Sud
+F0134,Papafava s.r.l.,Pulizie,Est
+F0135,Ferragni-Morrocco Group,Pulizie,Ovest
+F0136,Monduzzi-Fanucci Group,Manutenzione,Centro
+F0137,Letta e figli,Manutenzione,Nord
+F0138,Trobbiani e figli,Manutenzione,Sud
+F0139,Montesano-Gemito e figli,Manutenzione,Est
+F0140,Troisi-Toscani s.r.l.,Manutenzione,Ovest
+F0141,Missoni-Guicciardini e figli,Spesa a domicilio,Centro
+F0142,Vento-Alfieri s.r.l.,Spesa a domicilio,Nord
+F0143,Toscanini Group,Spesa a domicilio,Sud
+F0144,Guinizzelli Group,Spesa a domicilio,Est
+F0145,Garobbio-Naccari s.r.l.,Spesa a domicilio,Ovest
+F0146,Carosone-Cianciolo SPA,Assistenza domestica,Centro
+F0147,Pellico s.r.l.,Assistenza domestica,Nord
+F0148,Carocci-Solari SPA,Assistenza domestica,Sud
+F0149,Solimena-Armani Group,Assistenza domestica,Est
+F0150,Einaudi-Smirnoff SPA,Assistenza domestica,Ovest
+F0151,Mercalli-Mazzeo Group,Consegne,Centro
+F0152,Farinelli-Caruso Group,Consegne,Nord
+F0153,Orsini-Giunti SPA,Consegne,Sud
+F0154,Favata-Ferrara SPA,Consegne,Est
+F0155,Dellucci e figli,Consegne,Ovest
+F0156,Callegari-Curiel s.r.l.,Pulizie,Centro
+F0157,Fo Group,Pulizie,Nord
+F0158,Cianciolo e figli,Pulizie,Sud
+F0159,Buscetta-Sinisi SPA,Pulizie,Est
+F0160,Murialdo Group,Pulizie,Ovest
+F0161,Tropea-Leone SPA,Manutenzione,Centro
+F0162,Falcone-Pascarella s.r.l.,Manutenzione,Nord
+F0163,Morgagni Group,Manutenzione,Sud
+F0164,Conti-Tuzzolino Group,Manutenzione,Est
+F0165,Grimani-Paolini e figli,Manutenzione,Ovest
+F0166,Babato s.r.l.,Spesa a domicilio,Centro
+F0167,Farnese-Cutuli Group,Spesa a domicilio,Nord
+F0168,"Ferrari, Russo e Tropea s.r.l.",Spesa a domicilio,Sud
+F0169,Mennea SPA,Spesa a domicilio,Est
+F0170,Babati e figli,Spesa a domicilio,Ovest
+F0171,"Cusano, Ortese e Capone s.r.l.",Assistenza domestica,Centro
+F0172,Speri-Malacarne s.r.l.,Assistenza domestica,Nord
+F0173,Chigi-Spadafora Group,Assistenza domestica,Sud
+F0174,"Rossi, Blasi e Rismondo SPA",Assistenza domestica,Est
+F0175,Tamburello-Ceschi Group,Assistenza domestica,Ovest
+F0176,Tarantini-Ossani Group,Consegne,Centro
+F0177,Cavanna s.r.l.,Consegne,Nord
+F0178,Falier SPA,Consegne,Sud
+F0179,Guicciardini Group,Consegne,Est
+F0180,Badoer-Papetti s.r.l.,Consegne,Ovest
+F0181,Lupo-Mattarella SPA,Pulizie,Centro
+F0182,Ferrara Group,Pulizie,Nord
+F0183,Parini-Aulenti Group,Pulizie,Sud
+F0184,Matteotti s.r.l.,Pulizie,Est
+F0185,Sforza-Nitti Group,Pulizie,Ovest
+F0186,Bragadin-Cherubini s.r.l.,Manutenzione,Centro
+F0187,Chittolini-Barracco e figli,Manutenzione,Nord
+F0188,Ritacca-Baresi e figli,Manutenzione,Sud
+F0189,Chittolini-Fo s.r.l.,Manutenzione,Est
+F0190,"Mimun, Bocca e Vespa Group",Manutenzione,Ovest
+F0191,Durante-Baglioni s.r.l.,Spesa a domicilio,Centro
+F0192,Duodo SPA,Spesa a domicilio,Nord
+F0193,Petrassi-Schicchi s.r.l.,Spesa a domicilio,Sud
+F0194,Tartini s.r.l.,Spesa a domicilio,Est
+F0195,Mascagni SPA,Spesa a domicilio,Ovest
+F0196,Dossetti-Calarco s.r.l.,Assistenza domestica,Centro
+F0197,Busoni SPA,Assistenza domestica,Nord
+F0198,Mazzi-Pedroni s.r.l.,Assistenza domestica,Sud
+F0199,Gioberti-Strangio SPA,Assistenza domestica,Est
+F0200,Dulbecco-Toldo Group,Assistenza domestica,Ovest
+F0201,Sanudo-Saraceno e figli,Consegne,Centro
+F0202,"Conti, Tedesco e Babati Group",Consegne,Nord
+F0203,"Totino, Solari e Morucci SPA",Consegne,Sud
+F0204,Malaparte Group,Consegne,Est
+F0205,"Segni, Cafarchia e Fuseli SPA",Consegne,Ovest
+F0206,"Tafuri, Gotti e Romagnoli SPA",Pulizie,Centro
+F0207,Gianvecchio Group,Pulizie,Nord
+F0208,"Canil, Contarini e Fo SPA",Pulizie,Sud
+F0209,"Bocelli, Parri e Flaiano SPA",Pulizie,Est
+F0210,Cherubini-Mastandrea Group,Pulizie,Ovest
+F0211,Camiscione Group,Manutenzione,Centro
+F0212,Malacarne Group,Manutenzione,Nord
+F0213,Pisacane Group,Manutenzione,Sud
+F0214,Petrocelli Group,Manutenzione,Est
+F0215,Canetta Group,Manutenzione,Ovest
+F0216,"Ceri, Bonatti e Desio s.r.l.",Spesa a domicilio,Centro
+F0217,Pedroni s.r.l.,Spesa a domicilio,Nord
+F0218,Zaccardo SPA,Spesa a domicilio,Sud
+F0219,Barbarigo-Giammusso e figli,Spesa a domicilio,Est
+F0220,Liguori-Bonanno SPA,Spesa a domicilio,Ovest
+F0221,Gradenigo-Chiaramonte Group,Assistenza domestica,Centro
+F0222,Giannetti-Andreotti e figli,Assistenza domestica,Nord
+F0223,Trebbi-Cusano e figli,Assistenza domestica,Sud
+F0224,Bianchi e figli,Assistenza domestica,Est
+F0225,Bottigliero-Cilea Group,Assistenza domestica,Ovest
+F0226,Delle e figli,Consegne,Centro
+F0227,Scarpetta SPA,Consegne,Nord
+F0228,"Collina, Angeli e Galilei SPA",Consegne,Sud
+F0229,Segrè-Proietti Group,Consegne,Est
+F0230,Armellini e figli,Consegne,Ovest
+F0231,"Sansoni, Morrocco e Paruta SPA",Pulizie,Centro
+F0232,Mastandrea SPA,Pulizie,Nord
+F0233,Bellucci-Scalfaro SPA,Pulizie,Sud
+F0234,Zichichi-Tognazzi e figli,Pulizie,Est
+F0235,Zacco-Sonnino Group,Pulizie,Ovest
+F0236,Lucarelli-Barberini SPA,Manutenzione,Centro
+F0237,Corcos-Sibilia e figli,Manutenzione,Nord
+F0238,Nicolucci SPA,Manutenzione,Sud
+F0239,Bembo-Toninelli SPA,Manutenzione,Est
+F0240,"Goldoni, Mimun e Favata SPA",Manutenzione,Ovest
+F0241,"Ponti, Abate e Saragat e figli",Spesa a domicilio,Centro
+F0242,Pederiva SPA,Spesa a domicilio,Nord
+F0243,Baracca-Cannizzaro e figli,Spesa a domicilio,Sud
+F0244,Costalonga-Travia s.r.l.,Spesa a domicilio,Est
+F0245,Gucci-Agostini Group,Spesa a domicilio,Ovest
+F0246,Asprucci s.r.l.,Assistenza domestica,Centro
+F0247,Bulzoni e figli,Assistenza domestica,Nord
+F0248,Guinizzelli s.r.l.,Assistenza domestica,Sud
+F0249,Comeriato SPA,Assistenza domestica,Est
+F0250,Montanari Group,Assistenza domestica,Ovest
+F0251,Cimini-Borsiere Group,Consegne,Centro
+F0252,"Tamburini, Leone e Tron s.r.l.",Consegne,Nord
+F0253,Tomasini SPA,Consegne,Sud
+F0254,Mantegazza e figli,Consegne,Est
+F0255,Zola-Cavanna Group,Consegne,Ovest
+F0256,Pininfarina-Scialpi Group,Pulizie,Centro
+F0257,"Conte, Paolucci e Treccani SPA",Pulizie,Nord
+F0258,Palladio-Valentino SPA,Pulizie,Sud
+F0259,Stefanelli e figli,Pulizie,Est
+F0260,Toscanini-Borrani e figli,Pulizie,Ovest
+F0261,Luria s.r.l.,Manutenzione,Centro
+F0262,Taliercio s.r.l.,Manutenzione,Nord
+F0263,Verdone-Finzi s.r.l.,Manutenzione,Sud
+F0264,Sorrentino s.r.l.,Manutenzione,Est
+F0265,Tiepolo SPA,Manutenzione,Ovest
+F0266,Cossiga s.r.l.,Spesa a domicilio,Centro
+F0267,Dibiasi s.r.l.,Spesa a domicilio,Nord
+F0268,Franceschi-Curci Group,Spesa a domicilio,Sud
+F0269,Toninelli-Fallaci SPA,Spesa a domicilio,Est
+F0270,Marconi Group,Spesa a domicilio,Ovest
+F0271,Doglioni e figli,Assistenza domestica,Centro
+F0272,Zabarella-Tomei SPA,Assistenza domestica,Nord
+F0273,Verdone s.r.l.,Assistenza domestica,Sud
+F0274,"Romano, Marazzi e Fermi s.r.l.",Assistenza domestica,Est
+F0275,Mogherini Group,Assistenza domestica,Ovest
+F0276,Bonaventura SPA,Consegne,Centro
+F0277,Sandi Group,Consegne,Nord
+F0278,"Gaggini, Scalfaro e Gozzi SPA",Consegne,Sud
+F0279,Biagiotti e figli,Consegne,Est
+F0280,Capone e figli,Consegne,Ovest
+F0281,Cannizzaro-Pagliaro e figli,Pulizie,Centro
+F0282,Viviani s.r.l.,Pulizie,Nord
+F0283,Ortolani-Tuzzolino SPA,Pulizie,Sud
+F0284,Ciani e figli,Pulizie,Est
+F0285,Panzera-Fieramosca SPA,Pulizie,Ovest
+F0286,Lucarelli-Mazzeo s.r.l.,Manutenzione,Centro
+F0287,Lattuada e figli,Manutenzione,Nord
+F0288,Manolesso-Polesel e figli,Manutenzione,Sud
+F0289,Necci-Donini SPA,Manutenzione,Est
+F0290,Antonioni Group,Manutenzione,Ovest
+F0291,Bova-Pincherle s.r.l.,Spesa a domicilio,Centro
+F0292,Borrani-Cassarà e figli,Spesa a domicilio,Nord
+F0293,Segrè-Boldù e figli,Spesa a domicilio,Sud
+F0294,Montalcini Group,Spesa a domicilio,Est
+F0295,Bottigliero-Zecchini e figli,Spesa a domicilio,Ovest
+F0296,Baracca-Marangoni SPA,Assistenza domestica,Centro
+F0297,Ponti e figli,Assistenza domestica,Nord
+F0298,"Visintini, Ponti e Fo SPA",Assistenza domestica,Sud
+F0299,Treves e figli,Assistenza domestica,Est
+F0300,Foà-Morgagni SPA,Assistenza domestica,Ovest
+F0301,Montecchi-Modigliani s.r.l.,Consegne,Centro
+F0302,Piovani-Romano SPA,Consegne,Nord
+F0303,Cattaneo e figli,Consegne,Sud
+F0304,Santi s.r.l.,Consegne,Est
+F0305,Benussi e figli,Consegne,Ovest
+F0306,Vecoli-Ceschi s.r.l.,Pulizie,Centro
+F0307,Antonioni-Lucarelli e figli,Pulizie,Nord
+F0308,Tommaseo-Borrani s.r.l.,Pulizie,Sud
+F0309,Vidoni Group,Pulizie,Est
+F0310,Valentino s.r.l.,Pulizie,Ovest
+F0311,Tonisto e figli,Manutenzione,Centro
+F0312,Cheda s.r.l.,Manutenzione,Nord
+F0313,Farnese-Piane Group,Manutenzione,Sud
+F0314,Canevascini-Sinisi Group,Manutenzione,Est
+F0315,Nicolucci-Pirelli s.r.l.,Manutenzione,Ovest
+F0316,Giacometti-Vidoni s.r.l.,Spesa a domicilio,Centro
+F0317,Mantegazza-Viviani e figli,Spesa a domicilio,Nord
+F0318,Errigo-Mocenigo SPA,Spesa a domicilio,Sud
+F0319,Perini-Berlusconi SPA,Spesa a domicilio,Est
+F0320,Gangemi-Fattori SPA,Spesa a domicilio,Ovest
